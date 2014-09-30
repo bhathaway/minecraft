@@ -1,0 +1,1 @@
+^/[\.+|-][OGBQ]lr#/[OGBQ][\.+|-]r#:s/O/./ge:s/G/-/ge:s/B/+/ge:s/Q/|/ge:s/#/O/gj
